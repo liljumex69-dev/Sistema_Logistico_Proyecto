@@ -268,7 +268,7 @@ PASTIPAN/
 ### Paso a Paso
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU-USUARIO/pastipan-sistema-despacho.git
+git clone https://github.com/liljumex69-dev/Sistema_Logistico_Proyecto
 cd pastipan-sistema-despacho
 
 # 2. Ejecutar el sistema principal
